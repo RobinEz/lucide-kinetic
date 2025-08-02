@@ -8,7 +8,7 @@ const Philosophie = () => {
     <div className="min-h-screen bg-background text-foreground">
       <SEO
         title="Notre Philosophie - Clarté et Collaboration en IA"
-        description="Découvrez notre approche basée sur la clarté, la collaboration et des résultats mesurables. Nous transformons la complexité de l'IA en avantage concurrentiel."
+        description="Notre approche : clarté, collaboration et résultats mesurables. Nous transformons la complexité de l'IA en avantage concurrentiel pour vous."
         canonicalUrl="https://lucidetest.netlify.app/philosophie"
       />
       <Navigation />
